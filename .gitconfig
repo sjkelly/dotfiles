@@ -1,0 +1,12 @@
+[user]
+	name = Steve Kelly
+	email = kd2cca@gmail.com
+[color]
+	ui = true
+[github]
+	user = sjkelly
+[push]
+	default = simple
+[alias]
+	co = checkout
+	st = status
