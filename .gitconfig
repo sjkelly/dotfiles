@@ -10,3 +10,4 @@
 [alias]
 	co = checkout
 	st = status
+	pb = pull --rebase
