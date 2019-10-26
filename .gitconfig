@@ -11,3 +11,6 @@
 	co = checkout
 	st = status
 	pb = pull --rebase
+	fa = fetch --all
+[commit]
+	gpgsign = true
