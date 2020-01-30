@@ -1,0 +1,22 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.rulers": [92],
+    "workbench.iconTheme": "vscode-icons",
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "window.titleBarStyle": "custom",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "julia.enableTelemetry": true
+}
