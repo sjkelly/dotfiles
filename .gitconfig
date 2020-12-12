@@ -8,6 +8,7 @@
 [push]
 	default = simple
 [alias]
+	cm = commit -m
 	co = checkout
 	st = status
 	pb = pull --rebase

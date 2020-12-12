@@ -2,4 +2,4 @@
 
 cp .gitconfig ~/.gitconfig
 mv ~/.bashrc ~/.bashrc.bak
-cp .bashrc ~/.bashrc   
+cp .bashrc ~/.bashrc
