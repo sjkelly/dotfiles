@@ -15,3 +15,5 @@
 	fa = fetch --all
 [commit]
 	gpgsign = true
+[commit]
+	gpgsign = true
